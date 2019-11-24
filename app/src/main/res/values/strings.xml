@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">KDU Club and Society</string>
+
+    <!-- Log in page -->
+
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+
+    <!-- Navigation Bar -->
+    <string name="title_clubs">Clubs</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="noRegisteredClub">No Registered Club and Society</string>
+
+    <string name="register">Register</string>
+
+    <string name="clubName">Club Name</string>
+    <string name="clubDesc">Description</string>
+    <string name="clubMeeting">Meeting Datails</string>
+    <string name="clubMaxNum">Maximum Number of Member</string>
+
+    <string name="txtAddAnnouncementTitle">New Announcement</string>
+    <string name="btnSave">Save</string>
+    <string name="btnCancel">Cancel</string>
+</resources>

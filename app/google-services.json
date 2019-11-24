@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "341301978913",
+    "firebase_url": "https://kdu-clubs-and-society-app.firebaseio.com",
+    "project_id": "kdu-clubs-and-society-app",
+    "storage_bucket": "kdu-clubs-and-society-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341301978913:android:8167d21a6c2e99f9384060",
+        "android_client_info": {
+          "package_name": "com.example.kduclubandsociety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341301978913-o8e7rb5vj0ooaga43pltnto8rdnptk33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kduclubandsociety",
+            "certificate_hash": "00f51c7d71afd1cf5ce93dfbb65aa5cfcaf92e50"
+          }
+        },
+        {
+          "client_id": "341301978913-m0h5ghi07sou6agsjk5iqr6f3rudd387.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kduclubandsociety",
+            "certificate_hash": "a3b97c8a3d966f0d5714ce03c9b1fe655ab050db"
+          }
+        },
+        {
+          "client_id": "341301978913-lc9dloofokl6oi4k18vdcrlvpa10834i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5GkaaZNILhLP0u8pZddaajHUMGPDt0Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341301978913-lc9dloofokl6oi4k18vdcrlvpa10834i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
